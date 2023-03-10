@@ -1,0 +1,15 @@
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/bin/Debug/net6.0/Zadacha66
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/bin/Debug/net6.0/Zadacha66.deps.json
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/bin/Debug/net6.0/Zadacha66.runtimeconfig.json
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/bin/Debug/net6.0/Zadacha66.dll
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/bin/Debug/net6.0/Zadacha66.pdb
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.csproj.AssemblyReference.cache
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.AssemblyInfoInputs.cache
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.AssemblyInfo.cs
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.csproj.CoreCompileInputs.cache
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.dll
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/refint/Zadacha66.dll
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.pdb
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/Zadacha66.genruntimeconfig.cache
+/Users/tatanaselest/Desktop/итоговая дз/Zadacha66/obj/Debug/net6.0/ref/Zadacha66.dll
